@@ -1,2 +1,2 @@
 # goproxy
-Docker image for gproxy
+Docker images of https://github.com/elazarl/goproxy
